@@ -1,0 +1,36 @@
+aide_alimentaire 
+
+colonne Produit à modifier
+lister toutes les catégorie de produits 
+
+remplacement Blé et Farin
+par Blé et Farine
+
+remplacement Fruits secs, total
+par Fruits secs
+
+remplacement Légumineuses Sèches,Tot.
+par Légumineuses Sèches
+
+remplacement Riz, total
+par Riz
+
+remplacement
+Sucre, total
+Sucre
+
+Lait, total
+Lait
+
+Viande Total
+Viande
+
+
+Colonne Pays bénéficiaire
+Chine continental divisé --> à rassembler
+
+
+Renommage colonne
+Pays bénéficiaire --> Pays
+
+Valeur--> Tonnage

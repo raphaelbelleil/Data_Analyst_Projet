@@ -1,0 +1,16 @@
+Modif nom colonnes 
+zone --> pays
+
+Assembler colonne si , dans nom pays
+chine continental
+Taiwan
+
+modif . par virgule dans variables quantitatives
+
+
+classement par categorie de variable par couleur 
+
+
+calcul disponibilité intérieur avec 
+les variables de consommation
+les variables de production

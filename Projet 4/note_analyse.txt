@@ -1,0 +1,38 @@
+Nuage de points entre différentes variables 
+corrélation aide alimentaire / sous nutrition? à vérifier 
+
+la proportion de personnes en état de sous-nutrition ;
+camembert sous nutrition/pas sous nutrition
+
+le nombre théorique de personnes qui pourraient être nourries. Tu devrais pouvoir calculer ça à partir de la disponibilité alimentaire mondiale ;
+diagramme en barre comparatif
+
+idem pour la disponibilité alimentaire des produits végétaux ;
+idem pour le graphique --> éventuellement mettre les 4 diagrammes sur le meme graph
+
+l’utilisation de la disponibilité intérieure, en particulier la part qui est attribuée à l’alimentation animale, celle qui est perdue et celle qui est concrètement utilisée pour l'alimentation humaine
+diagramme en barre
+
+répartition des céréales entre l’alimentation humaine (colonne Nourriture) et l’alimentation pour animaux
+diagramme en barre ou camembert (plutot camembert car 2 variables)
+diagramme en barre pour montrer les autres utilisations
+
+Utilisation du manioc en Thaïlande, la part de l’exportation comparé à la production, aux égards de la proportion de personnes en sous nutrition, est ce que l’exportation de manioc comblerait la sous-nutrition du pays ?
+diagramme repartition disponibilité intérieur, production, exportation..., point de vue moyen d'acquisition
+camembert production/exportation
+comparaison dispo alimentaire manioc actuelle et théorique diagramme en barre
+
+
+Pour quels pays la proportion des sous alimentés est la plus forte en 2017 ?
+diagramme en barre
+
+Quels sont les pays qui ont bénéficiés de plus d’aides depuis 2013 ?
+diagramme en barre simple 
+diagramme en barre 2 variables tonnage aide alimentaire + aide alimentaire par habitant
+nuage de point --> voir dans quelle mesure le tonnage d'aides alimentaires et le nombre de personne en sous nutrition est corrélé
+
+Quels sont les pays qui ont le plus/le moins de disponibilités alimentaires ?
+diagramme en barre
+
+en + 
+histogramme distribution dispo alimentaire

@@ -1,0 +1,23 @@
+présentation projet 3
+
+Cours Initiez-vous à Python pour l'analyse de données
+Cours Découvrez les librairies Python pour la Data Science
+
+compréhension du sujet
+
+faire dabord sur excel puis sur pandas
+
+traiter les valeurs nulles
+traiter les doublons
+définir les doublons --> qu'est ce qui doit pas être répété
+
+notebook nettoyage et préparation des données
+
+homogénéiser les données quand on parle de la même chose, renommer les colonnes
+convertir au bon type les colonnes
+
+2 notebook
+
+1 notebook nettoyage --> on créé des csv nettoyé
+
+2eme notebook pour traiter les données nettoyer et répondre aux questions

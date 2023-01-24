@@ -1,0 +1,131 @@
+pwd 
+pour connaitre le dossier ou on se trouve 
+
+cd "chemin du dossier"
+pour se positionner dans un dossier
+
+mkdir Test
+créer un dossier Test à partir du répertoire où on est
+
+git init
+pour initialiser un repertoire git
+
+cd Documents
+pour aller dans Documents 
+
+touch index.html
+créer un fichier index.html
+
+git status
+pour voir le fichier qu'on vient de créer
+
+git add 
+pour indexer un fichier 
+
+git commit
+pour envoyer le fichier sur le repository
+
+$ git commit -m "Ajout des fichiers html et css de base"
+
+
+git push origin main
+pour envoyer le fichier sur github
+
+git branch
+liste des branch
+
+git branch cagnotte 
+créer une branch cagnotte
+
+git checkout main
+swicth de branch passe à main
+
+git merge cagnotte 
+fusionne main et cagnotte
+
+git clone https://github.com/raphaelbelleil/Formation-Data-Analyst.git
+pour cloner le depot distant en local
+
+git pull origin main
+met à jour le dépôt local depuis le depôt distant
+
+pull request
+pour faire une demande de fusion de 2 branches
+
+
+creation de 3 branches et basculement sur la branche 2
+git branch Branch1
+git branch Branch2
+git branch Branch3
+git checkout Branch2
+
+
+git branch -d branchTest
+supprime la branchTest
+
+git branch -D brancheTest
+pour supprimer la branche alors qu'on a fait des modifs
+
+
+git stash enregistre les modifications non indexées pour une utilisation ultérieure. 
+
+git log affiche l'historique des commits réalisés sur la branche courante.
+
+git reset --hard HEAD^ permet de réinitialiser l'index et le répertoire de travail à l'état du dernier commit.
+
+
+git add fichier.txt +
+git commit --amend permet de sélectionner le dernier commit pour y effectuer des modifications, en l'occurence ajouter fichier.txt
+
+git commit --amend -m "Votre nouveau message de commit" pour modifier le message descriptif du commit
+
+
+
+git reset est une commande puissante. Elle peut être appliquée de 3 façons différentes (--soft; --mixed; --hard).
+
+La commande git merge produit un conflit si une même ligne a été modifiée plusieurs fois. Dans ce cas, il faut indiquer à Git quelle ligne conserver.
+
+git reset permet de revenir à l'état précédent sans créer un nouveau commit.
+
+git revert permet de revenir à l'état précédent en créant un nouveau commit
+
+
+
+    git log affiche l'historique des commits réalisés sur la branche courante.
+
+    git reflog est identique à git log. Cette commande affiche également toutes les actions réalisées en local.
+
+    git checkout un_identifiant_SHA-1 permet de revenir à une action donnée.
+
+    git blame permet de savoir qui a réalisé telle modification dans un fichier, à quelle date, ligne par ligne.
+
+    git cherry-pick un_identifiant_SHA-1 un_autre_identifiant_SHA-1 permet de sélectionner un commit et de l'appliquer sur la branche actuelle. 
+
+
+
+
+git status
+git stash
+git branch BranchFile
+git checkout BranchFile
+git status apply
+
+- git status pour vérifier l’état de vos fichier
+
+- git stash pour remiser vos modifications
+
+- git branch branchFile pour créer une nouvelle branche
+
+- git checkout BranchFile pour basculer sur cette branche
+
+- git stash apply pour appliquer les modifications
+
+
+
+
+git commit --amend -m  modifie le message du commit précédent. C'est le -m qui indique que nous allons modifier le message.
+
+
+
+
+git commit --amend --no-edit permet de modifier le commit sans changer le message.

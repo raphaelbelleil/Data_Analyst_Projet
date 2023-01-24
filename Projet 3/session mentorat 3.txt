@@ -1,0 +1,22 @@
+Objectifs : 
+fin de semaine --> dictionnaire des données et schéma 
+fin de semaine prochaine --> base de données et requetes 
+
+Projet 3 : 
+
+Analyse du sujet 
+analyse des fichiers de données 
+Quels sont les donnees importantes ?
+Doit-on tout garder ? Seulement des colonnes importantes ?
+Peut on trouver à quoi correspond chaque colonnes des fichiers ?
+
+les 3 lois normales 
+
+vente
+bien
+commune, population...
+departement 
+région
+
+6 champs a garder pour les communes 
+juste les champs necessaire au mapping avec les valeurs foncieres 

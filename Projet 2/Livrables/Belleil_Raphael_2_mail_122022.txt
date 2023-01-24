@@ -1,0 +1,21 @@
+Bonjour Cécile, 
+
+En réponse à ton message de cette nuit : 
+
+En effet, j'ai remarqué quelque chose d'anormal sur le graphique 4, celui qui indique en tant réel le nombre de visiteurs sur le site.
+
+On voit qu'il y a entre 4 et 12 personnes sur le site puis d'un coup vers 3h du matin, le nombre de personne chute à 0 jusqu'à au moins 12h le lendemain (fin du graphique). 
+
+Voici 2 hypothèses concernant cette anomalie :
+
+	- Les données liées au comptage du nombre de personnes sur le site ont été perdues/corrompues à cause de la mise en production mais le site fonctionnait bien et des personnes navigaient dessus.
+	- Le site était en maintenance, il a crashé à cause de la mise en production (et des visites toujours plus nombreuses sur le site) et effectivement personne n'était dessus.
+
+J'espère t'avoir aidé avec ma réponse.
+N'hésite pas à me recontacter si tu veux d'autres renseignements.
+
+Bonne journée.
+
+Cordialement, 
+
+Raphaël

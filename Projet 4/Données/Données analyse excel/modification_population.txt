@@ -1,0 +1,19 @@
+Rennomage colonne
+
+Zone --> Pays
+Valeur --> Population
+
+Colonne pays divisé et rassemblé pour 
+Bonaire /Saint-Eustache et Saba
+Chine /continentale
+Chine /Taiwan Province de
+Sainte-Hélène /Ascension et Tristan da Cunha
+
+
+formatage pays en texte
+population en nombre
+
+
+
+population
+remplacer point par virgule puis *1000

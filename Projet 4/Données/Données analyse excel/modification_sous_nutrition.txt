@@ -1,0 +1,7 @@
+Pays sur 2 colonnes rassemblés
+
+année sous forme d'intervalle passée en une année
+
+nom de colonne changés
+
+Nombre de personne passé en valeur réelle et <0.1 passé à <100000

@@ -1,0 +1,149 @@
+Présenter mon avancé/points bloquants/ressenti
+Présenter ce que j'ai compris du projet 2
+Présenter mon planning pour le projet 2 
+
+Projet 2
+Faites une analyse des ventes pour un e-commerce (nourriture, biens de consommation et high tech) Le Grand Marché
+Travail sur le rapport mensuel des actions marketing
+
+2 missions principales :
+préparer la présentation des chiffres clés généraux à partir des graphiques déjà générés (cf. e-mail de Frédérique ci-dessous) ;
+préparer le rapport des données spécifiques aux clients affiliés sur Excel à partir des données directement (cf. e-mail de Pauline ci-dessous).
+
+Points Frédéric : 
+
+    proportion des ventes par catégorie de produit ; graph 12 et 14
+    montant des achats des clients (montant du panier) ; graph 7, graph 5
+    évolution du chiffre d'affaires ; graph 1, graph 11, graph 12
+    évolution du nombre d'achats des clients ; graph 1, graph 2
+    évolution du ratio (nombre d’achats des clients)/(nombre de visites) au cours du temps ; graph 2(peu pertinent), graph 3
+    évolution du nombre de visites sur le site web au cours du temps ; graph 2
+    temps passé par les visiteurs sur le site web (pour les sessions ayant abouti à un achat) ; graph 6, graph 5
+    évolution de la variabilité du temps passé par les visiteurs sur le site web (pour les sessions ayant abouti à un achat). graph 15
+
+Graphiques et Dashboard de Pauline : 
+
+    Sur la feuille de calcul “Dashboard” à compléter : il faut que tu utilises les bonnes formules pour remplir les cases vides (les informations de février, les totaux et les informations sur le temps d’achat).
+    Sur une nouvelle feuille de calcul “Montant x temps” : un graphique représentant le montant du panier en fonction du temps passé sur le site.
+    Sur une nouvelle feuille de calcul “Évolution CA x catégorie” : un graphique de l'évolution du chiffre d'affaires au sein de chaque catégorie.
+    Sur une nouvelle feuille de calcul “CA par catégorie” : une représentation du chiffre d'affaires total pour chaque catégorie.
+    Sur une nouvelle feuille de calcul “Clients x catégorie” : un tableau qui résume, pour chaque client, le nombre d'achats et le chiffre d'affaires par catégorie, ainsi que le total.
+
+
+
+indiquer nom de chaque graphique et infos importantes 
+
+autre methode < 4min avec tableau croisé
+
+clients "affiliés " : client obtenu obtenu grâce à un affilieur (annonceur) qui va promouvoir notre site et/ou nos produits, faire de la pub pour lui, comme certains blogs ou Amazon 
+
+
+
+Graph 1:
+2 échelles : 
+chiffres d'affaire en fonction du temps 
+Comparé au nombre de ventes en fonction du temps 
+chiffre d'affaire et ventes qui augmentent de mars 2019 à janvier 2020 puis baisse du CA le dernier mois alors que les ventes augmentent --> voir pourquoi, voir autre graph
+
+Graph 2 : 
+2 courbes comparées 
+nombres de ventes en fonction du temps 
+nombres de visites en onction du temps 
+pb d'echelles peu parlant 
+donne l'impression que les visites ont explosées mais pas les ventes mais pas meme point de depart non plus 
+--> interessant en lien avec le taux de conversion 
+
+Graph 3 :
+Evolution du taux de conversion entre mars 2019 et février 2020
+taux de conversion : proportion des visites sur le site qui aboutie à un achat 
+Baisse globale --> pourquoi ? --> beaucoup plus de visite 
+
+Graph 4 : 
+Evolution du nombre de personne sur le site dans le temps 
+on remarque vers 3h une chute du nombre de personne sur le site à 0 jusque 12h environ (fin du graph)
+soit site en maintenance, soit perte des données liées au nombre de personne sur le site --> surcharge du site 
+
+Graph 5 :
+montant du panier en fonction du temps passé sur le site 
+nuage de point
+corrélation visible entre les 2, on peut voir une tendance qui se dégage de ces nuages de point 
+la moyenne sera au centre du nuage de point 
+moyenne temps passé sur le site ayant abouti à un achat: environ 7min
+moyenne montant du panier : environ 40€
+
+Graph 6 :
+histogramme du temps passé sur le site (session ayant abouti à un achat)
+suit une loi normale donc max proche de mediane proche de moyenne
+distribution de la durée des session ayant abouti à un achat
+médiane : moitié de l'air sous la courbe
+environ 95 personnes ont acheté quelque chose en restant 7min30
+7min30 est la durée pour laquelle le plus de personne ont fait un achat
+
+
+Graph 7 : 
+histogramme du montant du panier qui représente la distribution des montants du panier
+suit une loi normale
+moyenne et médiane : mesure de tendance centrale
+moyenne et mediane environ à 40€
+--> montant du panier moyen environ à 40€
+
+Graph 8 :
+histogramme
+répartition des prix catégorie nourriture
+distribué à gauche de maniere plutot lineaire 
+moyenne environ à 30
++80% des produits < 40€ --> 100
+
+Graph 9 :
+histogramme
+répartition des prix catégorie bien de conso
+distribué à gauche de maniere plutot lineaire
+moyenne environ à 150
++80% des produits < 250€ --> 500
+
+Graph 10 :
+histogramme
+répartition des prix catégorie high tech
+distribué à gauche mais peu linéaire, beaucoup de pic tout au long de la distribution
+moyenne environ à 3000
++80% des produits < 7000€ --> 10000
+
+Graph 11 : 
+courbe
+evolution du chiffre d'affaires dans le temps
+hausse constante et baisse dernier mois 
+reponse au graph suivant 
+
+Graph 12 : 
+histogramme empilé
+evolution du chiffre d'affaires dans le temps avec repartition par secteur 
+baisse expliquée par l'absence du secteur high tech sur ce mois ci
+la société a décidé d'abandonner ce secteur pour se concentrer sur les 2 autres
+sur les autres secteurs :
+le chiffre d'affaires des biens de consommation reste identique au cours du temps 
+le chiffre d'affaire de la nourriture croie enormement +30% par mois environ
+si la tendance se maintient on arrive à un chiffre d'affaires global de +75/80k le mois prochain
+la baisse est conjoncturel pas structurel
+
+Graph 13 : 
+repartition secteur dans le temps mais en proportion 
+pas de notion de quantité, de CA, moins d'infos que dans celui d'avant 
+
+Graph 14 : 
+camembert 
+repartition du chiffres d'affaires par catégorie sur les 12 derniers mois 
+
+Graph 15 : 
+boite à moustaches 
+évolution dans le temps (12 derniers mois) de la répartition du temps de sessions ayant abouti à un achat
+la tendance centrale qui diminue (mediane, moyenne)
+la dispersion augmente --> ecart interquartile qui augmente 
+(les gens achète de + en + vite)
+plus le temps passe plus le temps de sessions ayant abouti à un achat est dispersé
+la moyenne du temps de session ayant abouti à un achat reste identique 
+
+
+Graph 16 : 
+evolution du temps moyen de session ayant abouti à un achat reste identique 
+la moyenne du temps de session ayant abouti à un achat reste identique 
+

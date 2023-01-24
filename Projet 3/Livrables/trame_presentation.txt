@@ -1,0 +1,29 @@
+contexte 
+
+sommaire 
+
+presentation dictionnaire données
+--> pourquoi j'ai selectionné chaque champs dans chaque fichier 
+
+presentation base de données 
+--> choix de postgresql
+--> pourquoi j'ai divisé en 5 tables --> respect de la 3NF -> rappel définition 3NF
+explication de mes choix
+nb de ville
+population 
+code postale
+id_bien, quel champs définit un bien, sa clé primaire 
+id_vente, pareil pour vente
+--> les liens entre tables
+--> les types de données
+--> l'auto incrementation des clés primaires de bien et vente avec des séquences
+
+présenter la démarche de création de la base de données
+--> suppresssion de certains champs dans les 3 fichiers de base
+--> création des 5 fichiers csv correspondant aux 5 tables
+--> region, departement, commune avec données communes et référentiels géographiques
+--> bien et vente avec valeur foncière
+--> unicité de bien : no_voie, type_voie, indice_repetition, voie, nombre_piece, surface_carrez, surface_reelle_bati, type_local
+--> unicité de vente : id_bien (champs ci-dessus) + valeur_fonciere + date_vente
+
+presentation des requetes 

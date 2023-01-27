@@ -1,0 +1,37 @@
+entreprise de vin
+vente en ligne
+
+enjeux
+erp pas relié au site de vente en ligne 
+gestion des stocks complexes
+analyse des ventes sur le net réduite
+
+objectif
+relier ces 2 systèmes d'informations
+
+
+erp
+référence produit
+prix de vente
+etat de stock
+
+cms
+nom produit
+description 
+nombre de ventes (depuis sa mise en ligne)
+
+fichier lien
+product_id (erp) --> exhaustif
+reference produit SKU (site) --> non exhaustif 
+	--> valeurs manquantes, les traiter
+
+
+1) relier les 2 fichiers avec le fichier lien
+
+2) CA par produit
+ + Total CA en ligne
+
+3) erreurs dans le prix de certains produits
+faire une analyse univariée des prix
+détecter les valeurs aberrantes
+faire une représentation graphique

@@ -1,0 +1,81 @@
+modif fichier erp
+
+product_id 4954
+quantite 0 status instock
+erreur 
+status outstock
+
+type des colonnes
+onsale_web et stock_status
+on mettra category
+
+
+
+web et liaison
+bon cadeau 25€ 
+creer un id
+mettre bon cadeau 25€ + prix
+
+reference 13127-1
+meme gamme que 13127 mais pas la meme année
+a traiter
+on peut modifier la reference
+la mettre au meme format que les autres
+
+14680-1
+n'existe pas dans web --> erreur
+supprimer
+
+
+on 109 valeurs non vendues sur le web dans erp
+et 92 produits dans liaison sans reference web
+on verra lesquels et pourquoi 
+
+
+web
+86 lignes sans id
+problement à supprimer
+
+colonnes a supprimer
+virtual
+downloadable
+rating_count_
+average_rating
+tax_status
+tax_class
+post_author
+post_date_gmt
+post_content
+post_status
+comment_status
+ping_status
+post_password
+post_name
+post_modified_gmt
+post_content_filtered
+post_parent
+menu_order
+post_type
+post_mime_type
+comment_count
+
+supression des lignes
+Pierre Jean Villa Côte Rôtie Fongeant 2017
+Pierre Jean Villa Condrieu Jardin Suspendu 2018
+
+supprimer les photos
+categorie attachment
+
+modifier les noms de colonnes
+
+post_excerpt
+faire attention au html dans les descriptions
+peut causer des problèmes
+
+
+modification de références 
+13127-1, on normalise on enleve le -1 --> on peut mettre 13128, il n'existe pas
+proche de 13127 car meme gamme que 13127 --> plus coherent
+
+bon-cadeau-25-euros, on met ca en description et prix
+on incremente la reference

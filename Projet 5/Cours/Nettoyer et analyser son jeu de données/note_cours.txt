@@ -1,0 +1,31 @@
+1)
+
+stat inférentielles
+--> estimateurs
+--> test statistiques 
+pour créer un modèle
+faire des probas
+
+modèle statististique
+en lien avec les stats inférentielles
+créer un modèle mathématiques pour faire des prévisions
+de base ce modèle va afficher les données observées en fonction des variables
+
+
+2) 
+
+Variables quantitatives 
+	- discrètes
+	- continues
+Variables qualitatives
+	- nominales
+	- ordinales
+date  : qualitative ordinale
+
+différentes valeurs d'une variable qualitatives
+--> modalités
+--> le nombre de fois ou la modalité apparait : l'effectif
+
+pour présenter les variables quantitatives continues
+on les agrégera en classe
+

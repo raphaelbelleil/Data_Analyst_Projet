@@ -1,0 +1,49 @@
+notebook
+justifier ses choix 
+rapporter les incohérences que j'ai detecté 
+celle que jai modifié 
+celle que j'ai supprimé
+
+
+
+
+se serait bien que l'échantillon suivent une loi normal
+verifier que la variable suit une loi normale (ou pas)
+
+
+si coef de variation > 0.3 trop dispersé
+idéalement < 0.15
+
+
+faire passer des tests de normalités a ma variable 
+test kolgomorof smirnof 
+test chapiro wilk
+test de normalité
+
+si echantillon normal
+on peut passer des tests paramétriques
+basé sur la moyenne
+permet de faire des prédiction
+permet de dire s'il y a une relation
+sil est forte ou faible
+
+sinon test non paramétrique
+basé sur la médiane
+permet de dire s'il y a une relation
+sil est forte ou faible
+
+
+loi log normal --> quest ce que c'est ?
+
+
+passer a l'exp ou au log pour rendre la distribution normal et ainsi mieux utiliser ses données
+
+
+test d'hypothèse : 
+on calcul la cote
+la valeur centrée réduite 
+
+si pvalue<5% on est dans la zone de rejet, on rejete h0 et on accepte h1
+
+
+est ce que notre variable suit une loi normale ?

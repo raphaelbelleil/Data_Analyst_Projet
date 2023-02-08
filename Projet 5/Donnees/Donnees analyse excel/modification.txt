@@ -10,8 +10,7 @@ onsale_web et stock_status
 on mettra category
 
 
-
-web et liaison
+fichier web et liaison
 bon cadeau 25€ 
 creer un id
 mettre bon cadeau 25€ + prix

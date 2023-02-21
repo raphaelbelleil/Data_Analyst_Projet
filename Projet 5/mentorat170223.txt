@@ -1,0 +1,23 @@
+
+# rajouter le nombre de point aberrants ou atypique pour les 4 echantillon transformés
+# faire des prédiction, faire des causalités et corrélations
+# loi normale --> tests paramétriques
+
+# log et racines sont des transformation --> technqiue pour améliorer son echantillon, --> inconvénient, plus compliqué à interpréter, pertinent pour les modèle de prévision mais plus compliqué pour les modèles d'explication
+
+# faire des prévisions
+
+# verifier la qualité d'une variable
+
+# test de représentativités
+# 1, moyenne, moyenne tronquée, mediane test 10%, si passe pas probleme, retravailler l'echantillon
+# et on sassure que le cv<0.30
+
+# 2. on sassure le forme de notre courbe est bonne --> test de sknewness et kurtosis, les test de normalité, shapiro... ne passeront pas
+# on peut quand meme utiliser l'echantillon
+
+# 3. les tests de normalité, shapiro...
+# echantillon de tres bonne qualité, on peut l'utiliser 
+
+# on a utiliser le log car le graphique nous disais 
+# --> retravailler lechantillon, zcore, IQR, Log, jusqua ce qu'il soit de meilleurs qualités
